@@ -1,2 +1,2 @@
-HI! This file contains an epic Fps unlocker for roblox! (potentially) 
+HI! This file contains an epic FPS unlocker for roblox! (potentially) 
 Have fun!
